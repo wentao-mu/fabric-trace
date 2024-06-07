@@ -135,14 +135,14 @@ export default {
         userType: ''
       },
       options: [{
-        value: '种植户',
-        label: '种植户'
+        value: '生产商',
+        label: '生产商'
       }, {
-        value: '工厂',
-        label: '工厂'
+        value: '批发商',
+        label: '批发商'
       }, {
-        value: '运输司机',
-        label: '运输司机'
+        value: '物流运输',
+        label: '物流运输'
       }, {
         value: '商店',
         label: '商店'
