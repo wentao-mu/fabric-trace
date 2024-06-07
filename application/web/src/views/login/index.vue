@@ -3,7 +3,7 @@
     <el-form ref="loginForm" :model="loginForm" :rules="loginRules" class="login-form" auto-complete="on" label-position="left">
 
       <div class="title-container">
-        <h3 class="title">基于区块链的农产品溯源系统</h3>
+        <h3 class="title">基于区块链的商品溯源系统</h3>
       </div>
       <div v-show="isLoginPage">
         <el-form-item prop="username">
@@ -229,7 +229,7 @@ $cursor: #fff;
 /* reset element-ui css */
 .login-container {
   // 添加背景图片
-  background-image: url("../../assets/login_images/nature.jpg");
+  background-image: url("../../assets/login_images/login_images.jpg");
   background-size: cover;
   background-position: center;
 
