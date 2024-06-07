@@ -141,8 +141,8 @@ export default {
         value: '批发商',
         label: '批发商'
       }, {
-        value: '物流运输',
-        label: '物流运输'
+        value: '物流',
+        label: '物流'
       }, {
         value: '商店',
         label: '商店'
