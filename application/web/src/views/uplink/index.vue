@@ -1,8 +1,8 @@
 <template>
   <div class="uplink-container">
     <div style="color:#909399;margin-bottom: 30px">
-      当前用户：{{ name }};
-      用户角色: {{ userType }}
+      用户：{{ name }};
+      用户角色名称: {{ userType }}
     </div>
     <div>
       <el-form ref="form" :model="tracedata" label-width="80px" size="mini" style="">
