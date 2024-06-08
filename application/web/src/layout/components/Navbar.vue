@@ -13,7 +13,7 @@
           <a target="_blank" href="https://github.com/wentao-mu/fabric-trace">
             <el-dropdown-item>项目地址</el-dropdown-item>
           </a>
-          <a target="_blank" href="https://blog.csdn.net/qq_41575489">
+          <a target="_blank" href="https://eone.neu.edu.cn">
             <el-dropdown-item>东北大学官网</el-dropdown-item>
           </a>
           <el-dropdown-item divided @click.native="logout">
